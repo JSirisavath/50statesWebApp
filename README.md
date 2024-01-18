@@ -188,4 +188,4 @@ Plans for future development of the 50 States Traveler App include:
 
 Working on this full-stack application has been pivotal in reinforcing my understanding of dynamic data handling and has introduced me to new perspectives in this area. Utilizing the Vue framework in conjunction with Node.js and various other tools has provided me with a deeper comprehension of the foundational principles of client/server-based applications. This experience has not only solidified my existing knowledge but also expanded my technical skill set in managing and integrating different components of a modern web application.
 
-Thank you for your interest in the  50 State Traveler App. Feedback and contributions are highly appreciated!
+Thank you for your interest in the  50 States Traveler App. Feedback and contributions are highly appreciated!
